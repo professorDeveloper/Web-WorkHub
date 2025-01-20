@@ -1,0 +1,23 @@
+@media (max-width: 660px) {
+    .nav__list{
+        display: none !important;
+    }
+    .nav__btn{
+        display: block !important;
+    }
+    h1{
+        font-size: 40px !important;
+        padding: 0 20px;
+    }
+    .hero__input{
+        max-width: 400px !important;
+    }
+    .title__text{
+        font-size: 36px !important;
+    }
+    .contact__content{
+        flex-direction: column !important;
+    }
+    .map{
+    }
+}
